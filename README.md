@@ -8,6 +8,8 @@ This decision affects several teams across the organization. For users, the onbo
 The primary objective of this experiment is to improve key business metrics, including onboarding completion, trial starts, user engagement, and paid subscription conversions. However, improving conversion alone is not enough. The company must also ensure that the new onboarding experience does not negatively impact the overall user experience by increasing support tickets or refund requests.
 
 To make an informed recommendation, the experiment results need to provide clear evidence that the treatment group performs better than the control group. This includes measuring the size of the improvement, determining whether the results are statistically significant, and evaluating whether any gains in conversion come with unacceptable business risks. The final recommendation should balance growth opportunities with customer experience and operational impact.
+# KPI TREE PNG
+<img width="1024" height="768" alt="KPI TREE GRAPH" src="https://github.com/user-attachments/assets/5ad0e246-9a0a-4c5d-9c88-bd15fe8af3b7" />
 
 # TASK 4 Cleaning and Preaparing 
 
