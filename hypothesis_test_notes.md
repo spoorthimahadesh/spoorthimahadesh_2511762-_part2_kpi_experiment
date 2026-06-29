@@ -122,7 +122,7 @@ H\_1: p\_{control} =! p\_{treatment}
 
 ###### The Treatment group achieved a significantly higher paid conversion rate than the Control group. The improvement is statistically significant, suggesting that the new onboarding campaign positively impacts conversions and should be considered for rollout, while continuing to monitor guardrail metrics.
 
-
+&#x20;png screenshot uploaded in readme
 
 
 
