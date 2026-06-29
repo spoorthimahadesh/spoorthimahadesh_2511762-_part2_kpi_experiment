@@ -8,3 +8,23 @@ This decision affects several teams across the organization. For users, the onbo
 The primary objective of this experiment is to improve key business metrics, including onboarding completion, trial starts, user engagement, and paid subscription conversions. However, improving conversion alone is not enough. The company must also ensure that the new onboarding experience does not negatively impact the overall user experience by increasing support tickets or refund requests.
 
 To make an informed recommendation, the experiment results need to provide clear evidence that the treatment group performs better than the control group. This includes measuring the size of the improvement, determining whether the results are statistically significant, and evaluating whether any gains in conversion come with unacceptable business risks. The final recommendation should balance growth opportunities with customer experience and operational impact.
+
+# TASK 4 Cleaning and Preaparing 
+
+- Missing values were identified in the device_type and traffic source column. Since only a small number of records were affected, these rows were flagged with "UNKNOWN" in the analysis.
+- ### Group Counts
+The experiment groups were validated to ensure that users were assigned correctly. The dataset contained 670 users in the Control group and 709 users in the Treatment group.
+### Duplicate User IDs
+User IDs were checked for duplicates to ensure that each user was included only once in the experiment. 9 duplicate user IDs were found.
+### Binary Variable Validation
+Binary columns were reviewed to confirm that they contained only valid values (0 or 1). No invalid values were identified.
+
+
+
+
+
+
+
+
+
+
