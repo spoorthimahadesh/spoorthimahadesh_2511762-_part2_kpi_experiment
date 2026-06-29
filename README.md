@@ -21,9 +21,10 @@ Binary columns were reviewed to confirm that they contained only valid values (0
 
 
 
+<img width="1111" height="417" alt="image" src="https://github.com/user-attachments/assets/0b9e347b-1542-4c39-819b-a10fe781498e" />
 
 
-
+(was not able to upload this in md file
 
 
 
