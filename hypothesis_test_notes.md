@@ -68,3 +68,71 @@ H\_1: p\_{control} =! p\_{treatment}
 * ###### If **p-value ≥ 0.05**, fail to reject the null hypothesis and conclude that there is insufficient evidence to suggest a significant difference between the Control and Treatment groups.
 * ###### The final rollout decision should consider both statistical significance and guardrail metrics such as refund rate and support ticket rate.
 
+
+
+
+
+
+
+
+
+##### A/B TEST
+
+
+
+###### Summary of Test Inputs
+
+###### 
+
+###### \- Primary Metric: Paid Conversion Rate
+
+###### \- Control Group Size:690
+
+###### \- Treatment Group Size:709
+
+###### \- Significance Level: 0.05
+
+###### \- Test Type: Two-proportion Z-test
+
+###### 
+
+###### Test Output
+
+###### 
+
+###### \- Control Conversion Rate:31.36%
+
+###### \- Treatment Conversion Rate:14.18%
+
+###### \- P-value:0.00103
+
+###### 
+
+###### Decision Rule
+
+###### 
+
+###### If p-value < 0.05, reject the null hypothesis.
+
+###### 
+
+###### Business Interpretation
+
+###### 
+
+###### The Treatment group achieved a significantly higher paid conversion rate than the Control group. The improvement is statistically significant, suggesting that the new onboarding campaign positively impacts conversions and should be considered for rollout, while continuing to monitor guardrail metrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
